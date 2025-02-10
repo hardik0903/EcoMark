@@ -55,37 +55,6 @@ EcoMark is a unified platform that offers insights into sustainable practices us
 
 EcoMark provides a seamless experience for users to analyze their energy consumption, discover sustainable products, assess brand sustainability, and classify waste efficiently. Explore the live platform to experience its features firsthand.
 
-
-## Usage
-
-Clone the repository:
-
-```shell
-git clone https://github.com/hardik0903/EcoMark.git
-cd EcoMark
-```
-
-### Running the Dashboard
-
-Ensure dependencies are installed:
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-### Running the Computer Vision Model
-
-Refer to the Google Colab notebook for CNN implementation and usage:
-
-[Waste Classification Model (Google Colab)](#)
-
-### Running the NLP Model
-
-For using the sustainability recommendation model, navigate to the Google Colab notebook:
-
-[Sustainable Product Recommender (BERT) Google Colab](#)
-
 ## Contributions
 
 Contributions are welcome! Feel free to submit a pull request or create an issue for suggestions.
