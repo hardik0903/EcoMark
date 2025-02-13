@@ -8,6 +8,7 @@
 
 > Environmental sustainability is a pressing global issue. EcoMark provides a platform to help users make informed decisions about their energy consumption, sustainable shopping, and waste disposal. By leveraging advanced AI models and data analytics, EcoMark aims to drive behavioral change for a greener future.
 
+# Hackathon
 ![EcoMark Logo](./assets/logo.png)
 
 EcoMark is a unified platform that offers insights into sustainable practices using AI-driven analytics, natural language processing, and computer vision techniques. The goal is to assist users in reducing their environmental impact and promoting eco-friendly habits.
